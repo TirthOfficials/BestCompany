@@ -1,3 +1,7 @@
+''' Code Written by Tirth Patel
+    Date: 02-Feb-2022
+'''
+
 import pandas as pd
 
 data = pd.read_csv("Data2.csv")
